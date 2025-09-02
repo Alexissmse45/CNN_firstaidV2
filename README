@@ -1,0 +1,12 @@
+-kung git bash
+avtivate the virtual environment:
+source venv/Scripts/Activate
+
+install the dependencies:
+pip install -r requirements.txt
+
+run 1st
+python train_model.py
+
+to run the system:
+python ui.py
